@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:mi_menu_ramon_app="http://schemas.android.com/apk/res-auto"
+    tools:context="utng.edu.mx.proyectoitext.ListViewLoginActivity"
+    >
+    <item
+        android:id="@+id/itm_actionbar_menu_progreso_on"
+        android:title="@string/menu_bar_progreso_on"
+        mi_menu_ramon_app:showAsAction="always"></item>
+    <item
+        android:id="@+id/itm_actionbar_menu_usuario_on"
+        android:title="@string/menu_bar_usuario_on"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_menu_configuraciones_on"
+        android:title="@string/menu_bar_configuracion_on"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_menu_calificar_app"
+        android:title="@string/menu_bar_calificar_app_on"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_menu_acerca_de_on"
+        android:title="@string/menu_bar_acerca_de_on"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_menu_ayu_suge_on"
+        android:title="@string/menu_bar_ayuda_sugerencia_on"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_actionbar_juegos"
+        android:title="@string/juegos"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_menu_juego_memorama"
+        android:title="@string/juego"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+
+    <item
+        android:id="@+id/itm_actionbar_juego_buscamionas"
+        android:title="@string/juegoBuscaminas"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_cronometro"
+        android:title="@string/Cronometro"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_actionbar_calculadora"
+        android:title="@string/Calculadora"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_video_utng"
+        android:title="@string/UTNG"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_actionbar_localizador"
+        android:title="@string/Localizacion"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_actionbar_agenda"
+        android:title="@string/agenda"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_calculator"
+        android:title="@string/calculator"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_galeria"
+        android:title="@string/galeria"
+        mi_menu_ramon_app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itm_actionbar_visor"
+        android:title="@string/galeria"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+
+
+    <item
+        android:id="@+id/itm_actionbar_menu_pinterest"
+        android:title="@string/Pinteres"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_actionbar_menu_radio"
+        android:title="radio"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+
+<item
+        android:id="@+id/itm_actionbar_menu_tema"
+        android:title="Temas"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+
+
+
+    <item
+        android:id="@+id/itm_actionbar_menu_salir_on"
+        android:title="@string/menu_bar_salir_on"
+        mi_menu_ramon_app:showAsAction="never"></item>
+
+
+</menu>

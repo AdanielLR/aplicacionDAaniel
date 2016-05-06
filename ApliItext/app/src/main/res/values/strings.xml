@@ -1,0 +1,807 @@
+<resources>
+    <string name="app_name">iText</string>
+    <string name="title_ruby">iText</string>
+    <string name="form_btn_mas_tarde">Mas Tarde</string>
+    <string name="form_btn_ingresar">Ingresar</string>
+    <string name="form_btn_crear_cuenta">Crear Cuenta</string>
+
+    <string name="login_valido">Daniel</string>
+    <string name="clave_valida">1234</string>
+    <string name="error_autenticar">usuario o password incorrectos</string>
+    <string name="datos_guardados_correctamente">"Los datos se guardaron con exito "</string>
+    <string name="btn_create_guardar">Guardar</string>
+    <string name="btn_create_cancelar">Cancelar</string>
+    <string name="title_login">Login</string>
+
+    <string name="title_create_login_registro">Registro</string>
+    <string name="usuario_create_login_registro">Usuario</string>
+    <string name="pass_create_login_registro">Contraseña</string>
+    <string name="correo_create_login_registro">Correo</string>
+    <string name="modules">Módulos</string>
+
+    <string name="tab_informacon">Información</string>
+    <string name="tab_video">Vídeo</string>
+    <string name="tab_examen">Examen</string>
+
+    <string name="escoge_medio_preferencia">Escoge el medio de preferencia :</string>
+    <string name="mensaje_bien_venido">Bienvenido :</string>
+    <string name="mensaje_ocultar">Ocultar</string>
+    <string name="mensaje_ocultar_toast">Ocultado</string>
+    <string name="tiulo_progreso_menu_bar">Progreso</string>
+
+    <string name="ayuda_sugerencia_ayuda">Ayuda</string>
+    <string name="ayuda_sugerencia_recomendaciones">Recomendaciónes</string>
+    <string name="ayuda_sugerencia_recomendaciones_resp">
+        -Para un mejor uso de esta app se suguiere estar conectado a una red wifi.\n
+        -No conectarse por medio de datos ya que los cargos generados pueden ser grandes.</string>
+    <string name="ayuda_sugerencia_sugerencias">Sugerencias</string>
+    <string name="ayuda_sugerencia_sugerencias_para">Para :</string>
+    <string name="ayuda_sugerencia_sugerencias_correo">adaniel95lira@gmail.com</string>
+    <string name="ayuda_sugerencia_sugerencias_tema">Tema :</string>
+    <string name="ayuda_sugerencia_sugerencias_mensage">Mensage :</string>
+    <string name="ayuda_sugerencia_sugerencias_enviar">Enviar</string>
+
+    <string name="acerca_de_titulo_desarrollador">Desarrollador</string>
+    <string name="acerca_de_nom_des">Nombre:</string>
+    <string name="acerca_de_nom_des_rep">Angel Daniel Licea Ruiz</string>
+    <string name="acerca_de_corr_des">Correo:</string>
+    <string name="acerca_de_corr_des_rep">adaniel95lira@gmail.com</string>
+    <string name="acerca_de_titulo_asignatura">Asignatura</string>
+    <string name="acerca_de_nom_asig">Nombre:</string>
+    <string name="acerca_de_nom_asig_res">Desarrollo de aplicaciónes III.</string>
+    <string name="acerca_de_prof_asig">Profesor:</string>
+    <string name="acerca_de_prof_asig_res">Rodriguez Garcia Anastacio.</string>
+    <string name="acerca_de_titulo_universidad">Universidad</string>
+    <string name="acerca_de_nombre_uni">Nombre:</string>
+    <string name="acerca_de_nombre_uni_res">Universidad Tecnológica del Norte de Guanajuato.</string>
+    <string name="acerca_de_ubicacion_uni">Ubicación:</string>
+    <string name="acerca_de_ubicacion_uni_res">Dolores Hidalgo, Cuna de la independencia nacional.</string>
+
+    <string name="titulo_calificacion">Calificación</string>
+    <string name="calificacion_enviar">Enviar</string>
+    <string name="calificacion_resultado">Resultado :</string>
+
+    <string name="titulo_configuracion">Configuraciónes</string>
+    <string name="configuracion_titulo_notificaciones">Notificaciónes</string>
+    <string name="configuracion_activar_notificaciones">Activar</string>
+    <string name="configuracion_desactivar_notificaciones">Desactivar</string>
+    <string name="configuracion_titulo_audio">Audio</string>
+    <string name="configuracion_titulo_almacenamiento">Almacenamiento</string>
+    <string name="configuracion_interno_almacenamiento">Interno</string>
+    <string name="configuracion_externo_almacenamiento">Externo</string>
+    <string name="nota_tipo_almacenamiento">Nota: El almacenamiento solo se puede eleguir al momento de crear la cuenta</string>
+
+    <string name="usuario_informacion_titulo">Información</string>
+    <string name="usuario_informacion_nombre">Nomre: </string>
+    <string name="usuario_informacion_nombre_res">Angel Daniel Licea Ruiz</string>
+    <string name="usuario_informacion_correo">Correo: </string>
+    <string name="usuario_informacion_correo_res">adaniel95lira@gmail.com</string>
+    <string name="usuario_informacion_puntos">Puntos: </string>
+    <string name="usuario_informacion_puntos_res">123 pt</string>
+
+    <string name="menu_bar_progreso_on">Progreso</string>
+    <string name="menu_bar_usuario_on">Información del usuario</string>
+    <string name="menu_bar_grafica_on">Gráfica de aprovechamiento</string>
+    <string name="menu_bar_configuracion_on">Configuraciónes</string>
+    <string name="menu_bar_calificar_app_on">Calificar app</string>
+    <string name="menu_bar_acerca_de_on">Acerca de</string>
+    <string name="menu_bar_ayuda_sugerencia_on">Ayuda y sugerencias</string>
+    <string name="menu_bar_salir_on">Salir</string>
+    <string name="menu_bar_juego">Pagina Dinamica</string>
+    <string name="menu_bar_juego_memo">Juego</string>
+    <string name="menu_bar_acerca_de_off">Acerca de</string>
+    <string name="menu_bar_ayuda_sugerencia_off">Ayuda y sugerencias</string>
+    <string name="menu_bar_salir_off">Salir</string>
+    <string name="confirm_pass_create_login_registro">Confirma la contraseña</string>
+
+    <string name="title_menssage_error_uno">Atención!!</string>
+    <string name="title_menssage_error_dos">Atención, campos requeridos!!</string>
+    <string name="button_menssage_error">Aceptar</string>
+    <string name="menssage_error_pass_different">Las contraseñas no coinsiden</string>
+
+    <string name="cuestionario_comprobar">Comprobar</string>
+
+    <string name="calificaciones_examenes">Calificaciónes de los examenes</string>
+
+    <string name="html_tema_concluido_off">
+        <![CDATA[
+            <div>
+              <div>
+                 <p>
+                  <font color="#000000">
+                     has concluido con exito el tema 1 :<i> Sobre iText</i>. Para poder continuar con el curso te recomendamos que te registres.
+                  </font>
+                 </p>
+              </div>
+           </div>
+        ]]>
+    </string>
+
+     <string name="html_curso_concluido_parte_uno">
+        <![CDATA[
+                     Has concluido con exito el curso de <i>iText</i> <b>
+        ]]>
+    </string>
+    <string name="html_curso_concluido_parte_dos">
+        <![CDATA[
+                     </b>. Para poder guardar tu calificación te recomendamos dar clic en el boton de ENVIAR.<br />
+        ]]>
+    </string>
+
+    <string name="html_uno_sobre_ruby">
+        <![CDATA[
+            <div>
+              <div>
+                 <p>
+                  En el verano de 1998, la universidad donde trabajaba 1 comenzaba una migración
+proyecto con la intención de rediseñar una serie de programas independientes
+utilizado por la administración de estudiantes. Hasta ese momento, entrando en los grados de los estudiantes
+y el cálculo de sus resultados finales al final del año académico se llevó a cabo
+el uso de software que funcionaba sólo en MS-DOS. Los documentos producidos por este software
+podría ser impresa en un solo tipo de impresora. Esto no era una forma ideal de
+de trabajo, por decir lo menos. Los maestros y personal administrativo se utilizan todos
+tipos de sistemas: Windows, Mac, Linux, Solaris, y así sucesivamente. Sin embargo, para una de las
+la mayoría de los aspectos delicados de su trabajo-calificar a los estudiantes-que estaban siendo obligados a utilizar
+DOS viejo y simple. La universidad decidió que era hora de hacer algo al respecto
+esta situación y contrató a dos desarrolladores para crear una solución completamente basada en web.
+Uno de ellos era (y sigue siendo) mi colega Marco Maccarini. El otro, como
+de lo que has adivinado, era yo. Mario y yo de inmediato comenzaron a escribir algunos servlets Java usando Apache
+JServ (que era la edad de piedra de J2EE), y tenemos el orgullo de presentar nuestra primera línea
+listas con los estudiantes, cursos y grados en el otoño de 1998. Fue sólo algunas ordinaria
+HTML en un navegador, pero en comparación con el cuadro de MS-DOS, que era un gran salto
+adelante. Todo el mundo era entusiasta, hasta que alguien le preguntó a uno de los más cruciales
+preguntas del proyecto: lo que hizo que nosotros, los desarrolladores, planean hacer con el "documento
+problema" y asi fue como surgio iText
+
+                 </p>
+                 <p>
+                 <b></b>
+                 </p>
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_uno_medio_ambiente_configuracion">
+        <![CDATA[
+            <div>
+              <div>
+                <p>
+                iText es una biblioteca Open Source para crear y manipular archivos PDF, RTF, y HTML en Java. Fue escrita por Bruno Lowagie, Paulo Soares, y otros; está distribuida bajo la Affero General Public License.
+El mismo documento puede ser exportado en múltiples formatos, o múltiples instancias del mismo formato. Los datos pueden ser escritos a un fichero o, por ejemplo, desde un servlet a un navegador web.
+Más recientemente, ha sido extendida a una biblioteca PDF de propósito general, capaz de rellenar formularios, mover páginas de un PDF a otro, y otras cosas. Estas extensiones son a menudo mutuamente excluyentes. Una clase te permite rellenar en formularios, mientras una clase diferente e incompatible hace posible copiar páginas de un PDF a otro.
+El soporte de PDF de iText es, sin embargo, bastante extensivo. Esto soporta firmas basadas en PKI de PDF, cifrado de 40-bit y 128-bit, corrección de colores, PDF/X, gestión de colores por perfiles ICC, y es anfitriona de otras características.
+
+                </p>
+
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_uno_sintaxis">
+        <![CDATA[
+            <div>
+              <div>
+                 <p>
+                 Más recientemente, ha sido extendida a una biblioteca PDF de propósito general, capaz de rellenar formularios, mover páginas de un PDF a otro, y otras cosas. Estas extensiones son a menudo mutuamente excluyentes. Una clase te permite rellenar en formularios, mientras una clase diferente e incompatible hace posible copiar páginas de un PDF a otro.
+El soporte de PDF de iText es, sin embargo, bastante extensivo. Esto soporta firmas basadas en PKI de PDF, cifrado de 40-bit y 128-bit, corrección de colores, PDF/X, gestión de colores por perfiles ICC, y es anfitriona de otras características.
+
+                 <br /><br />
+                <font color="#5c6bc0"><b>Añadir tablas</b></font> : Para añadir una tabla usaremos la clase PdfPTAble de iText, que se instancia pasando el número de columnas y luego sólo hay que ir añadiendo celdas con el método addCell(). Hay varios métodos addCell() también admite distintos elementos dentro, como frases, imágenes, otras tablas, etc.
+
+
+                 </p>
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_uno_palabras_reservadas">
+        <![CDATA[
+            <div>
+              <div>
+                 <p>
+                 Aunque iText es gratis (que está permitido el uso de iText en el software de código abierto o cerrado,
+en forma independiente o aplicaciones basadas en web, para servicios gratuitos o de propiedad,
+y en proyectos comerciales o sin fines de lucro), esto no quiere decir que eres libre de hacer
+lo que quiera con la biblioteca; hay que respetar los derechos de autor y la
+Mozilla Public License (MPL) que protege iText. Las primeras versiones de iText fueron
+publicado bajo la Biblioteca (o menor) Licencia Pública GNU (LGPL), pero una vez
+iText puso interesante para algunos jugadores importantes en la Información y Comunicaciones
+Tecnología (TIC) de negocios, había una creciente presión para pasar a
+otra licencia.
+
+                 </p>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_uno_variables">
+        <![CDATA[
+            <div>
+              <div>
+                 <p>
+                Aunque iText es gratis (que está permitido el uso de iText en el software de código abierto o cerrado,
+en forma independiente o aplicaciones basadas en web, para servicios gratuitos o de propiedad,
+y en proyectos comerciales o sin fines de lucro), esto no quiere decir que eres libre de hacer
+lo que quiera con la biblioteca; hay que respetar los derechos de autor y la
+Mozilla Public License (MPL) que protege iText. Las primeras versiones de iText fueron
+publicado bajo la Biblioteca (o menor) Licencia Pública GNU (LGPL), pero una vez
+iText puso interesante para algunos jugadores importantes en la Información y Comunicaciones
+Tecnología (TIC) de negocios, había una creciente presión para pasar a
+otra licencia.
+
+                 </p>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_uno_operadores">
+        <![CDATA[
+            <div>
+              <div>
+                 <p>
+                para utilizar itext necesitas añadir a tus librerias los paquetes del itext. Solo se puede utilizar en los ID Netbeans o Eclipse, necesitas añadir las librerias del itext a tu proyecto para que almomento de compilar tu clase no te aparezcan errores, y tienes que instalar el paquete com.Iowalgie.text Para agregar bibliotecas en netbeans te vas a la carpeta bibliotecas, le das un clioc derecho y le das en agregar bibliotecas. Despues, le das en crear, y cuando le pones un nombre comienza la busqueda de los archivos jar que añadiras. Por ahi en tu descarga del itext debe estar el com.lowalgie q te falta. Lo que haces despues es dar en aceptar y en el cuadro al que regresaste, le das en añadir y listo.
+                 </p>
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_uno_comentarios">
+        <![CDATA[
+            <div>
+              <div>
+                 <p>
+                 para utilizar itext necesitas añadir a tus librerias los paquetes del itext. Solo se puede utilizar en los ID Netbeans o Eclipse, necesitas añadir las librerias del itext a tu proyecto para que almomento de compilar tu clase no te aparezcan errores, y tienes que instalar el paquete com.Iowalgie.text Para agregar bibliotecas en netbeans te vas a la carpeta bibliotecas, le das un clioc derecho y le das en agregar bibliotecas. Despues, le das en crear, y cuando le pones un nombre comienza la busqueda de los archivos jar que añadiras. Por ahi en tu descarga del itext debe estar el com.lowalgie q te falta. Lo que haces despues es dar en aceptar y en el cuadro al que regresaste, le das en añadir y listo.
+                 </p>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_dos_ciclos">
+        <![CDATA[
+            <div>
+              <div>
+                <p>
+                La creación de un entorno en el que ejecutar y probar los ejemplos de un libro puede ser
+engorroso, especialmente si es necesario instalar los servicios o servidores adicionales. A
+reducir la complejidad, la mayoría de los ejemplos de este libro fueron concebidos como pequeñas independiente
+aplicaciones.
+  Todos los ejemplos fueron escritos en Java, por lo que necesitará un entorno Java (JDK
+se prefiere 1,4 o superior) y el Archivo de Java (JAR) apropiados. cada ejemplo
+escribe una breve explicación de la System.out, que le dice lo que hace. También
+enumera los recursos necesarios y los frascos necesarios en el CLASSPATH (una variable
+que le dice al compilador Java y JVM dónde encontrar todos los archivos de clase Java necesaria
+y archivos).
+  itext.jar es un jar ejecutable. Si lo abre en un entorno de ejecución de Java
+(JRE), se abre la caja de herramientas iText. Esta es una aplicación de interfaz gráfica de usuario que le permite hacer algunos
+PDF experimentos simples, sin tener que escribir una sola línea de código
+
+                </p>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_dos_metodos">
+        <![CDATA[
+            <div>
+              <div>
+              <p>
+              Adobe Systems Incorporated fue fundada en 1982 por John Warnock y Chuck
+Geschke. Sus primeros productos fueron las fuentes digitales. En estos días, Adobe Creative Suite
+(Incluyendo Photoshop e Illustrator) y Acrobat son insignia de la compañía
+productos. Es importante darse cuenta de que PDF no fue creado de la nada. los antepasados
+de PDF todavía existen y se utilizan en muchas aplicaciones. La mejor manera de entender
+la diferencia entre PDF y estas otras especificaciones es ir hacia atrás en la historia
+y ver cómo empezó todo.
+
+              </p>
+
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+
+
+
+
+    <string name="html_dos_modulos">
+        <![CDATA[
+            <div>
+              <div>
+              <p>
+              PdfWriter.getInstance(document,
+                new FileOutputStream("HelloWorld.pdf"));
+
+              </p>
+              <p>
+              En primer lugar se crea una instancia de documento. Esta instancia de documento representa el documento PDF. Para añadir contenido al documento PDF, se llama a los métodos de la instancia de documento.
+En segundo lugar, se crea un PDFWriter, pasando la instancia de documento y un OutputStream a su constructor. La instancia de documento es el documento actualmente estamos añadiendo contenido a. El OutputStream es donde el documento PDF generado se escribe. En este ejemplo, el documento PDF se escribe en un archivo, utilizando un FileOutputStream.
+En tercer lugar, el documento se abre llamando document.open (). Ahora se puede agregar contenido a la instancia de documento.
+En cuarto lugar, el contenido (una instancia de párrafo) se añade a la instancia de documento.
+En quinto lugar, la instancia de documento se cierra, llamando document.close (). Es importante cerrar el documento, para vaciar todo el contenido del documento al formato PDF Writer.
+
+              </p>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+
+
+
+    <string name="html_dos_bloques">
+        <![CDATA[
+            <div>
+              <div>
+              <p>
+              Este nuevo formato de documento, originalmente llamado intercambio PostScript (IPS), es ahora
+conocido como el formato de documento portátil (PDF). Aunque PostScript (PS) y PDF
+están relacionados, son esencialmente diferentes formatos. PDF no es un lenguaje de programación
+como PS; PDF aprovecha la capacidad del lenguaje PS para representar texto complejo
+y los gráficos y trae esta función a la pantalla, así como a la impresora. Como
+se indica en el PDF de referencia, "oficios PDF reducen la flexibilidad para mejorar la eficiencia
+y previsibilidad ".
+PDF y PS comparten el mismo modelo de imágenes de Adobe subyacente. Un documento PDF
+consta de una secuencia de páginas, con cada página incluyendo las especificaciones de texto, tipo de letra,
+márgenes, diseño, elementos gráficos y de texto y colores de fondo.
+A diferencia de PS, PDF puede contener una gran cantidad de estructura de documentos, enlaces, y otros relacionados
+información. A diferencia de PS, PDF no puede decir la impresora para utilizar una determinada entrada
+bandeja, cambiar la resolución, o utilizar cualquier otra característica específica del hardware. Uno de los
+ventajas clave PDF tiene más de PS es la independencia página. Debido a que es una programación PS
+idioma, algo en la descripción de la página 1 puede afectar a la página 1000, por lo
+para ver la página 1000 que tiene que interpretar todas las páginas antes de ella. Cada página en PDF
+se pueden extraer individualmente.
+PDF se llama el formato de documento portátil debido a un documento PDF puede ser
+ver e imprimir en cualquier plataforma: UNIX, Macintosh, Windows, Linux, o Palm
+OS. En teoría, un documento PDF se ve igual en cualquiera de estas plataformas (vamos a
+discutir algunas excepciones en el capítulo 8, cuando estamos hablando de la incrustación
+fuentes). En analogía con la escritura de Java Una vez, ejecutar en cualquier lugar, se podría decir que es PDF
+Escribir una vez, leer en cualquier lugar, pero de una manera más fiable que el de Java pegadiza
+frase publicitaria promete.
+Camelot era el nombre código original para lo que más tarde se convirtió en Acrobat. Es importante
+no confundir PDF, el lenguaje de descripción, con Acrobat, el conjunto de
+productos de Adobe que se desarrolló junto con la especificación PDF.
+
+
+			 </p>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+
+
+    <string name="html_dos_mix">
+        <![CDATA[
+            <div>
+              <div>
+<div>
+			 <p>Se puede establecer la sangría izquierda y derecha del párrafo. Esto mueve el contenido párrafo más lejos de los bordes de la página. Aquí está el código para hacer lo siguiente:
+
+
+
+			 <p>paragraph.setIndentationLeft(50);<br />
+paragraph.setIndentationRight(50);
+
+      </p>
+
+
+		  </div>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+
+
+
+
+    <string name="html_tres_strings">
+        <![CDATA[
+            <div>
+              <div>
+                <p>
+               En 1985, Adobe introdujo el PostScript (PS) Lenguaje de descripción de página (PDL).
+PS es un lenguaje de programación interpretativa. Su objetivo principal es describir el
+aspecto del texto, objetos gráficos, y las imágenes incluidas en la muestra. También proporciona una
+marco para el control de dispositivos de impresión; por ejemplo, especificando el número
+de copias que se imprimirán, activar la impresión a doble cara, y así sucesivamente.
+ También en 1985, Adobe ha desarrollado una aplicación para el Apple Macintosh llamada
+Adobe Illustrator, un programa de dibujo vectorial con su propio formato, AI, que
+fue derivado de PS. Ilustrador fue portado a Windows en 1989, por lo que cubría una
+mercado importante en la industria gráfica.
+ La producción de materiales visuales de alta calidad fue el privilegio de especialistas para una
+mucho tiempo, pero con el advenimiento de PostScript e illustrator, cualquier persona con un ordenador
+
+                </p>
+
+              </div>
+           </div>
+        ]]>
+    </string>
+
+    <string name="html_tres_arreglos">
+        <![CDATA[
+            <div>
+		  <div>
+			 <p>
+
+			 La clase com.itextpdf.text.Chunk en itext representa la más pequeña posible "trozo" de texto. Un pedazo puede contener tan poco como un solo carácter, hasta varias frases.
+			 </p>
+
+			 <p>
+			 document.open();<br />
+            document.add(new Chunk("This is sentence 1. "));<br />
+            document.add(new Chunk("This is sentence 2. "));<br />
+            document.add(new Chunk("This is sentence 3. "));<br />
+
+			 </p>
+			 <p>
+			 el objeto chunk sirve para agregar texto
+			 </p>
+		  </div>
+	   </div>
+        ]]>
+    </string>
+
+    <string name="html_tres_hashes">
+        <![CDATA[
+            <div>
+                <div>
+			 <p>
+            La clase com.itextpdf.text.Document en itext representa un documento PDF. Es una de las clases principales en itext. Si necesita generar un documento PDF a partir de cero, se utilizará la clase de documento.
+
+En primer lugar, debe crear una instancia de documento. A continuación, debe abrirlo. Después de eso se le añade contenido del documento. Finalmente se cierra la instancia de documento.
+
+			 </p>
+
+			 <p>
+			 public class DocumentExample {<br />
+
+    public static void main(String[] args) {<br />
+
+        Document document = new Document();<br />
+
+        <br />
+            document.open();<br />
+
+            document.add(new Paragraph("A Hello World PDF document."));<br />
+
+
+			 </p>
+		  </div>
+	        </div>
+        ]]>
+    </string>
+
+    <string name="html_tres_fecha_hora">
+        <![CDATA[
+                <div>
+		  <div>
+			 <p>
+			 La clase com.itextpdf.text.Phrase en itext representa una "frase" del texto. La clase de frase sabe cómo agregar espacio entre líneas.
+			 <br />
+			 document.open();<br />
+             document.add(new Phrase("This is sentence 1. "));<br />
+             document.add(new Phrase("This is sentence 2. "));<br />
+             document.add(new Phrase("This is sentence 3. "));<br />
+             document.add(new Phrase("This is sentence 4. "));<br />
+
+
+			 </p>
+
+			 <p>
+			 el objeto phrase sirve para agregar texto
+			 </P>
+		  </div>
+	        </div>
+        ]]>
+    </string>
+
+
+
+    <string name="html_cuatro_rangos">
+        <![CDATA[
+            <div>
+            <div>
+			 <p>
+			 objetos párrafo sabe cómo agregar espacio entre líneas si el texto añadido supera el borde derecho del documento. El interlineado se mide en unidades de usuario. Hay 72 unidades por pulgada. El espaciado predeterminado es 1,5 veces la altura de la fuente. Se puede cambiar el espaciado de línea que pasa por el espaciamiento como parámetro al constructor párrafo, de esta manera:
+			 <br />
+			 <br />
+                Paragraph paragraph = new Paragraph(50);<br />
+
+
+			 </p>
+
+		  </div>
+		    </div>
+        ]]>
+    </string>
+     <string name="html_cuatro_iteradores">
+        <![CDATA[
+            <div>
+                <div>
+			 <p>
+			 Puede añadir capítulos y secciones de un documento PDF utilizando itext. Los capítulos están representados por la clase com.itextpdf.text.Chapter. Secciones están representados por la clase com.itextpdf.text.Section.
+			 </p>
+
+		  </div>
+		    </div>
+        ]]>
+    </string>
+
+    <string name="html_cuatro_directorios">
+        <![CDATA[
+            <div>
+                <div>
+			 <p>
+			 Este nuevo formato de documento, originalmente llamado intercambio PostScript (IPS), es ahora
+conocido como el formato de documento portátil (PDF). Aunque PostScript (PS) y PDF
+están relacionados, son esencialmente diferentes formatos. PDF no es un lenguaje de programación
+como PS; PDF aprovecha la capacidad del lenguaje PS para representar texto complejo
+y los gráficos y trae esta función a la pantalla, así como a la impresora. Como
+se indica en el PDF de referencia, "oficios PDF reducen la flexibilidad para mejorar la eficiencia
+y previsibilidad ".
+PDF y PS comparten el mismo modelo de imágenes de Adobe subyacente. Un documento PDF
+consta de una secuencia de páginas, con cada página incluyendo las especificaciones de texto, tipo de letra,
+márgenes, diseño, elementos gráficos y de texto y colores de fondo.
+A diferencia de PS, PDF puede contener una gran cantidad de estructura de documentos, enlaces, y otros relacionados
+información. A diferencia de PS, PDF no puede decir la impresora para utilizar una determinada entrada
+bandeja, cambiar la resolución, o utilizar cualquier otra característica específica del hardware. Uno de los
+ventajas clave PDF tiene más de PS es la independencia página. Debido a que es una programación PS
+idioma, algo en la descripción de la página 1 puede afectar a la página 1000, por lo
+para ver la página 1000 que tiene que interpretar todas las páginas antes de ella. Cada página en PDF
+se pueden extraer individualmente.
+PDF se llama el formato de documento portátil debido a un documento PDF puede ser
+ver e imprimir en cualquier plataforma: UNIX, Macintosh, Windows, Linux, o Palm
+OS. En teoría, un documento PDF se ve igual en cualquiera de estas plataformas (vamos a
+discutir algunas excepciones en el capítulo 8, cuando estamos hablando de la incrustación
+fuentes). En analogía con la escritura de Java Una vez, ejecutar en cualquier lugar, se podría decir que es PDF
+Escribir una vez, leer en cualquier lugar, pero de una manera más fiable que el de Java pegadiza
+frase publicitaria promete.
+Camelot era el nombre código original para lo que más tarde se convirtió en Acrobat. Es importante
+no confundir PDF, el lenguaje de descripción, con Acrobat, el conjunto de
+productos de Adobe que se desarrolló junto con la especificación PDF.
+
+
+			 </p>
+		  </div>
+
+		    </div>
+        ]]>
+    </string>
+
+    <string name="html_cuatro_excepciones">
+        <![CDATA[
+            <div>
+                <p>
+                Puede establecer la alineación del párrafo utilizando el método setAlignment (). Esto establece de qué lado de la página que el texto se alinea a. Aquí hay un ejemplo:
+
+                </p><br />
+                <p>
+                paragraph.setAlignment(Element.ALIGN_LEFT);<br />
+paragraph.setAlignment(Element.ALIGN_CENTER);<br />
+paragraph.setAlignment(Element.ALIGN_RIGHT);<br />
+
+
+                </p>
+
+
+		    </div>
+        ]]>
+    </string>
+
+    <string name="html_cuatro_orientado_objetos">
+        <![CDATA[
+            <div>
+                <div>
+			 <p>
+
+También puede ajustar el espaciado antes y después de un párrafo. Así es cómo se hace eso en el código:
+			 </p>
+			 <p><br />
+			 paragraph.setSpacingAfter(50);<br />
+paragraph.setSpacingBefore(50);<br />
+
+			 </p>
+		  </div>
+		    </div>
+        ]]>
+    </string>
+
+    <string name="html_cuatro_expreciones_regulares">
+        <![CDATA[
+            <div>
+                <div>
+                <p>
+                Puede especificar las fuentes para la mayoría de los objetos de texto (Chunk, frase, párrafo, etc.) en itext. En realidad, se puede hacer mucho con fuentes en itext. Demasiado para cubrir aquí, así que voy a cubrir lo básico. Obtener el libro "itext en Acción" para obtener la historia completa sobre las fuentes.
+
+Para utilizar una fuente, primero debe crear el tipo de letra. Luego se le pasa al objeto de texto en el mismo de la constructora
+
+                </p>
+		        </div>
+		    </div>
+        ]]>
+    </string>
+
+
+    <string name="title_activity_settings">Configuración</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">Dany</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="juego">juego</string>
+    <string name="juegoBuscaminas">Buscaminas</string>
+
+
+    <string name="hello_world">Hola munddo</string>
+    <string name="menu_setting">Opciones</string>
+    <string name="title_activity_puzzle">Puzzle</string>
+    <string name="title_activity_main_menu">PuzzleGame - Menú Principal</string>
+    <string name="mainmenu_title">Juego Puzzle</string>
+    <string name="mainmenu_resume">Resumen</string>
+    <string name="mainmenu_newgame">Nuevo Juego</string>
+    <string name="title_activity_new_game_menu">NewGameMenuActivity</string>
+    <string name="newgamemenu_title">Nuevo Juego</string>
+    <string name="newgamemenu_gamesize">"Tamaño : "</string>
+    <string name="newgamemenu_image">Elegir Imagen</string>
+    <string name="newgamemenu_ok">Empezar</string>
+    <string name="newgamemenu_back">Regresar al menú</string>
+    <string name="gamesize_verysmall">Very small (2x3)</string>
+    <string-array name="gamesizes">
+        <item>Muy pequeño</item>
+        <item>Pequeño</item>
+        <item>Mediano</item>
+        <item>Largo</item>
+    </string-array>
+    <string name="newgamemenu_pickimage">Selecciona Imagen</string>
+    <string name="newgamemenu_button_pickbuiltin">Juego </string>
+    <string name="newgamemenu_button_pickfromsd">Memoria de telefono</string>
+    <string name="newgamemenu_button_shootphoto">Foto</string>
+    <string name="pausemenu_title">Pausar Juego</string>
+    <string name="pausemenu_resume">Resumen</string>
+    <string name="pausemenu_quit_to_main">Menú principal</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="reset">Reset</string>
+
+    <string name="title_activity_tes">Tic-Tac-Toe</string>
+    <string name="jugar_boton">Play 2 Players</string>
+    <string name="configurar">Settings</string>
+    <string name="acercade">About</string>
+    <string name="salir">Exit</string>
+    <string name="reiniciar">Start Over</string>
+    <string name="cruz">Win the Crosses</string>
+    <string name="juegoAcabado">EN</string>
+    <string name="circulo">Win the Circles</string>
+    <string name="jugar_boton_cpu">Play CPU</string>
+    <string name="juegos">juegos</string>
+    <string name="Cronometro">Cronometro</string>
+    <string name="Calculadora">Calculadora</string>
+    <string name="UTNG">UTNG</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Localizacion">Localizacion</string>
+
+
+    <string name="TituloApp">Agenda</string>
+    <string name="Listado">Añadir Nota</string>
+    <string name="AcercaDe">Acerca De</string>
+    <string name="Evento_Calendario"> Añadir Evento</string>
+    <string name="no_notes">No hay notas almacenadas</string>
+    <string name="title">Titulo</string>
+    <string name="body">Mensaje</string>
+    <string name="confirm">OK</string>
+    <string name="descripcion">Implementación de Agenda \n Proyecto iText \n UTNG</string>
+    <string name="edit_note">Modificar nota</string>
+    <string name="menu_delete">Borrar nota</string>
+    <string name="menu_insert">Insertar Nota</string>
+    <string name="agenda">agenda</string>
+    <string name="Pinteres">Pinterest</string>
+
+
+
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Calculadora</string>
+    <string name="b0">0</string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="bmenos">-</string>
+    <string name="bpor">x</string>
+    <string name="bdivido">/</string>
+    <string name="bc">C</string>
+    <string name="bpunto">.</string>
+    <string name="bigual">=</string>
+    <string name="bmas">+</string>
+    <string name="calculator">calculator</string>
+
+
+
+
+
+    <string name="text">Albun de Fotos. Pulsa los botones para verlas</string>
+    <string name="Anterior">Anterior</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="img1">Texto foto 1</string>
+    <string name="galeria">galeria</string>
+
+</resources>

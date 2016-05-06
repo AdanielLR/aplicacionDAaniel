@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itm_actionbar_menu_juego_memo" type="id">juego</item>
+    <item name="itm_actionbar_juegos" type="id">juegos</item>
+</resources>

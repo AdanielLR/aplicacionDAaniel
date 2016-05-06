@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mx.edu.utng.juegos.MenusJuegosActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_mood_24dp"
+        android:id="@+id/imv_img"
+
+        />
+  <TextView
+    android:layout_width="150dp"
+    android:layout_height="50dp"
+      android:text="Juego 1"
+      android:textSize="30dp"
+      android:id="@+id/textView"
+      android:layout_alignParentTop="true"
+      android:layout_alignParentRight="true"
+      android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:onClick="presionado"
+        android:text="Jugar"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/textView"
+        android:layout_toStartOf="@+id/textView" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_pages_24dp"
+        android:id="@+id/imv_img1"
+        android:layout_below="@+id/imv_img" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:onClick="presionado"
+        android:text="Jugar"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_alignStart="@+id/button1" />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="Juego 2"
+        android:textSize="30dp"
+        android:id="@+id/txt_2"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_mood_24dp"
+        android:id="@+id/imv_img2"
+        android:layout_below="@id/imv_img1"
+
+        />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="Juego 3"
+        android:textSize="30dp"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignLeft="@+id/txt_2"
+        android:layout_alignStart="@+id/txt_2"
+        android:id="@+id/textView2" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignParentBottom="true"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:onClick="presionado"
+        android:text="Jugar"
+        android:layout_alignTop="@+id/imv_img2"
+        android:layout_toLeftOf="@+id/textView2"
+        android:layout_toStartOf="@+id/textView2" />
+
+
+</RelativeLayout>

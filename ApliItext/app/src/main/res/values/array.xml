@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="item_menu_principal">
+        <item>Módulo 1</item>
+        <item>Módulo 2</item>
+        <item>Módulo 3</item>
+        <item>Módulo 4</item>
+        <item>Examen final</item>
+    </string-array>
+
+    <string-array name="item_menu_secundario_modulo1">
+        <item>iText</item>
+        <item>Intoduccion a iText</item>
+        <item>Añadir tablas</item>
+        <item>Licencias de iText</item>
+        <item>Versiones de iText</item>
+        <item>Medio ambiente para iText</item>
+        <item>Paquetes de iText</item>
+        <item>Examen</item>
+    </string-array>
+
+    <string-array name="item_menu_secundario_modulo2">
+        <item>iText</item>
+        <item>Adobe y documentos</item>
+        <item>El formato de documento portátil</item>
+        <item>Instancias</item>
+        <item>Sangria</item>
+        <item>Examen</item>
+    </string-array>
+
+    <string-array name="item_menu_secundario_modulo3">
+        <item>Los antepasados de PDF</item>
+        <item>Chunk</item>
+        <item>Clase de iText</item>
+        <item>Phrase</item>
+        <item>Examen</item>
+    </string-array>
+
+    <string-array name="item_menu_secundario_modulo4">
+        <item>Interlineado</item>
+        <item>Capítulos y secciones </item>
+        <item>Documento portátil</item>
+        <item>Alineación</item>
+        <item>Espaciado </item>
+        <item>Fuente</item>
+        <item>Examen</item>
+    </string-array>
+
+    <string-array name="item_menu_secundario_examen_final">
+        <item>Deve mandar al el examen final</item>
+    </string-array>
+
+    <string-array name="spinner_audio">
+        <item>Con audio.</item>
+        <item>Sin audio.</item>
+        <item>Con audio y vibración.</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+
+
+</resources>
